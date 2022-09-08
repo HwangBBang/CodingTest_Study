@@ -26,12 +26,16 @@
 
 
 |GitHub|이름|팀|출석| 주간 회고| 주중 잔디심기 | 과제 | 총점 |
-|---|-----|----------------------|:----:|:----:|:----:|:----:|:----:|:----:| 
-| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 | | | | | |   
-| [GitHub](https://github.com/123ksj)| 김수정 | 팀원 |  | | | | | |
-| [GitHub](https://github.com/subsub97)| 김득호 | 팀원 | | | | | |
-| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 | | | | | |
-| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | | | | | |
+|---|-----|----------------------|:----:|:----:|:----:|:----:|:----:|
+| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 | | | | |    
+| [GitHub](https://github.com/123ksj)| 김수정 | 팀원 |  | | | | | 
+| [GitHub](https://github.com/subsub97)| 김득호 | 팀원 | | | | | 
+| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 | | | | | 
+| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | | | | | 
+
 <br><br>
 
 ## Study Group Plan
+장소 : 백년관  1층 스터디룸 
+일정 : 매주 수 18시~20시 (공휴일 & 시험기간 X)
+
