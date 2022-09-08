@@ -19,3 +19,15 @@
 |22/10/-|8주차|NOT STARTED  ||
 |22/11/-|9주차|NOT STARTED  ||
 |22/11/-|10주차|NOT STARTED ||
+
+
+### Achievement
+|GitHub|이름|팀|출석| 주간 회고| 주중 잔디심기 | 과제 | 총점 |
+|---|-----|----------------------|:----:|:----:|:----:|:----:|:----:|:----:|
+| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 |  
+| [GitHub](https://github.com/123ksj)| 김수정 | 팀원 |  
+| [GitHub](https://github.com/subsub97)| 김득호 | 팀원 |
+| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 |
+| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | 
+
+## Study Group Plan
