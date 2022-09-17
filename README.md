@@ -9,8 +9,8 @@
 
 |날짜|주차|상태|주 차별 학습내용|
 |----|:----:|:----:|:----|
-|22/09/-|1주차|NOT STARTED  ||
-|22/09/-|2주차|NOT STARTED  ||
+|22/09/-|1주차|DONE  |코드트리 NOVICE LOW (01 - 03장)|
+|22/09/-|2주차|IN PROGRESS  |코드트리 NOVICE LOW (04 - 05장)|
 |22/09/-|3주차|NOT STARTED  ||
 |22/09/-|4주차|NOT STARTED  ||
 |22/10/-|5주차|NOT STARTED  ||
