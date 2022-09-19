@@ -11,14 +11,14 @@
 |----|:----:|:----:|:----|
 |22/09/14|1주차|DONE  |코드트리 NOVICE LOW (01 - 03장)|
 |22/09/21|2주차|IN PROGRESS  |코드트리 NOVICE LOW (04 - 05장)|
-|22/09/28|3주차|NOT STARTED  ||
-|22/10/05|4주차|NOT STARTED  ||
-|22/10/-|5주차|NOT STARTED  ||
-|22/10/-|6주차|NOT STARTED  ||
-|22/10/-|7주차|NOT STARTED  ||
-|22/10/-|8주차|NOT STARTED  ||
-|22/11/-|9주차|NOT STARTED  ||
-|22/11/-|10주차|NOT STARTED ||
+|22/09/28|3주차|NOT STARTED  |코드트리 NOVICE LOW (00 - 00장)|
+|22/10/05|4주차|NOT STARTED  |코드트리 NOVICE LOW (00 - 00장)|
+|22/10/12|5주차|NOT STARTED  |코드트리 NOVICE Mid (00 - 00장)|
+|22/11/02|6주차|NOT STARTED  ||
+|22/11/09|7주차|NOT STARTED  ||
+|22/11/16|8주차|NOT STARTED  ||
+|22/11/23|9주차|NOT STARTED  ||
+|22/11/30|10주차|NOT STARTED ||
 
 
 ### Achievement
@@ -46,4 +46,6 @@
 ##### 문제를 해결하는 방식에 대한 토론 및 토의 시간을 갖으며 공동체적 성장을 지향합니다. 
 ##### 학기 중에 진행하기 때문에 유동적으로 활동합니다.
 ##### 매주를 돌아보는 주간회고를 작성하고, 평일에 꾸준히 잔디를 심는 활동을 합니다.
+##### 1~4주차 Novice Low 완성 
+##### 5~10주차 Novice Mid 완성
 
