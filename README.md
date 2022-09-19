@@ -11,8 +11,8 @@
 |----|:----:|:----:|:----|
 |22/09/14|1주차|DONE  |코드트리 NOVICE LOW (01 - 03장)|
 |22/09/21|2주차|IN PROGRESS  |코드트리 NOVICE LOW (04 - 05장)|
-|22/09/-|3주차|NOT STARTED  ||
-|22/09/-|4주차|NOT STARTED  ||
+|22/09/28|3주차|NOT STARTED  ||
+|22/10/05|4주차|NOT STARTED  ||
 |22/10/-|5주차|NOT STARTED  ||
 |22/10/-|6주차|NOT STARTED  ||
 |22/10/-|7주차|NOT STARTED  ||
