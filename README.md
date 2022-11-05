@@ -29,7 +29,6 @@
 |---|-----|----------------------|:----:|:----:|:----:|:----:|:----:|
 | [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 | | | | |    
 | [GitHub](https://github.com/subsub97)| 김득호 | 팀원 | | | | | 
-| [GitHub](https://github.com/Jiho001) | 김지호 | 팀원 | | | | | 
 | [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | | | | | 
 
 <br><br>
